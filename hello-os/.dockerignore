@@ -1,0 +1,12 @@
+*~
+*.sw?
+.directory
+._*
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+.vscode/
+*.o
+*.img
+Dockerfile
