@@ -16,3 +16,7 @@
 
 # VSCode
 .vscode/
+
+# Outputs
+*.o
+*.img
